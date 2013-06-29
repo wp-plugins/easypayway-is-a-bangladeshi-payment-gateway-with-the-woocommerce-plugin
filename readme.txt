@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: JM Redwan
-Tags: WooCommerce, Payment Gateway, EasyPayWay
+Tags: WooCommerce, Payment Gateway, EasyPayWay,payment gateway, payment gateways,  payments gateway, online payment gateway, payment gateway comparison, collections software,  payment gateway providers, best payment gateway, ecommerce payment gateway, internet payment gateway, mastercard payment gateway, payment gateway software,payment gateway in bangladesh,
 Requires at least: 3.3
 Tested up to: 3.5
 Stable tag: 1.2.2
